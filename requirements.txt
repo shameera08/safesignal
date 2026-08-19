@@ -1,0 +1,11 @@
+Django==5.0.6
+djangorestframework==3.15.1
+django-cors-headers==4.3.1
+channels==4.1.0
+channels-redis==4.2.0
+celery==5.4.0
+redis==5.0.4
+anthropic==0.34.0
+python-dotenv==1.0.1
+djangorestframework-simplejwt==5.3.1
+daphne==4.1.2
